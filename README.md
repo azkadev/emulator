@@ -1,21 +1,8 @@
-# Emulator
+IyBFbXVsYXRvcgoKCi0tLQoKIyMjIERlbW8KCi0tLQoKIyMjIEluc3RhbGwg
+TGlicmFyeQoKYGBgYmFzaApkYXJ0IHB1YiBhZGQgZW11bGF0b3IKYGBgCgpv
+ciBmbHV0dGVyCgpgYGBiYXNoCmRhcnQgcHViIGFkZCBlbXVsYXRvcl9mbHV0
+dGVyCmBgYAogIyBlbXVsYXRvcgo=
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add emulator
-```
-
-or flutter
-
-```bash
-dart pub add emulator_flutter
-```
- # emulator
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
